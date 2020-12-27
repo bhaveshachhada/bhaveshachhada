@@ -1,4 +1,7 @@
-### Hi there 👋
+# [![bhavesh-achhada](https://media.giphy.com/media/3ohhwEZqxzKbNUHzji/giphy.gif)](https://github.com/bhaveshachhada)
+### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bhavesh !!
+
+
 
 <!--
 **bhaveshachhada/bhaveshachhada** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,4 +17,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://some-url.dev/)
+
