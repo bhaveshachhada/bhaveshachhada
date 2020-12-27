@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Visual Odometry and SLAM.
 - 👯 I’m looking to collaborate on any idea that fascinates me..!
 - 📫 How to reach me: ...
+
+
+[![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhaveshachhada&theme=dracula)](https://github.com/bhaveshachhada/)
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshachhada&theme=dracula&layout=compact)](https://github.com/bhaveshachhada/)
