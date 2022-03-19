@@ -32,6 +32,8 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tool-jupyter-informational?style=flat&logo=jupyter)
 ![](https://img.shields.io/badge/Tool-anaconda-informational?style=flat&logo=anaconda)
 ![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git)
+![](https://img.shields.io/badge/Tool-jenkins-informational?style=flat&logo=jenkins)
+![](https://img.shields.io/badge/Tool-Kubernetes-informational?style=flat&logo=kubernetes)
 <br>
 ![](https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=pytorch)
 ![](https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow)
