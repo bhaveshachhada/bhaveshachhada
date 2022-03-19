@@ -31,6 +31,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Tool-ROS-informational?style=flat&logo=ros)
 ![](https://img.shields.io/badge/Tool-jupyter-informational?style=flat&logo=jupyter)
 ![](https://img.shields.io/badge/Tool-anaconda-informational?style=flat&logo=anaconda)
+![](https://img.shields.io/badge/Tool-git-informational?style=flat&logo=git)
 <br>
 ![](https://img.shields.io/badge/Library-PyTorch-informational?style=flat&logo=pytorch)
 ![](https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow)
@@ -38,7 +39,10 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv)
 ![](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy)
 ![](https://img.shields.io/badge/Library-SciPy-informational?style=flat&logo=scipy)
-
+<br>
+![](https://img.shields.io/badge/IDE-pycharm-informational?style=flat&logo=pycharm)
+![](https://img.shields.io/badge/IDE-vscode-informational?style=flat&logo=visualstudio)
+![](https://img.shields.io/badge/IDE-nano-informational?style=flat&logo=nano&logoColor=red)
 
 #### :chart_with_upwards_trend: GitHub Statistics !
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhaveshachhada&theme=dracula)](https://github.com/bhaveshachhada/)
