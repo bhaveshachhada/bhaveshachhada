@@ -28,6 +28,12 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Library-TensorFlow-informational?style=flat&logo=tensorflow)
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white)
 ![](https://img.shields.io/badge/Library-FastAPI-informational?style=flat&logo=fastapi&logoColor=green)
+![](https://img.shields.io/badge/Library-OpenCV-informational?style=flat&logo=opencv)
+![](https://img.shields.io/badge/Library-NumPy-informational?style=flat&logo=numpy)
+![](https://img.shields.io/badge/Library-SciPy-informational?style=flat&logo=scipy)
+![](https://img.shields.io/badge/Tool-ROS-informational?style=flat&logo=ros)
+![](https://img.shields.io/badge/Tool-jupyter-informational?style=flat&logo=jupyter)
+![](https://img.shields.io/badge/Tool-anaconda-informational?style=flat&logo=anaconda)
 
 #### :chart_with_upwards_trend: GitHub Statistics !
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhaveshachhada&theme=dracula)](https://github.com/bhaveshachhada/)
