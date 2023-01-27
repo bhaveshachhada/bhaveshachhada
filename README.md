@@ -1,5 +1,4 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I'm Bhavesh (Interstellar Nerd) !!
-[![Twitter: AchhadaBhavesh](https://img.shields.io/twitter/follow/AchhadaBhavesh?style=social)](https://twitter.com/AchhadaBhavesh)
 [![Linkedin: bhaveshachhada](https://img.shields.io/badge/-bhaveshachhada-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bhavesh-achhada/)](https://www.linkedin.com/in/bhavesh-achhada/)
 [![Instagram: bhaveshachhada](https://img.shields.io/badge/-bhaveshachhada-8a3ab9?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/bhaveshachhada/)](https://instagram.com/bhaveshachhada)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=bhaveshachhada.bhaveshachhada&style=plastic)
