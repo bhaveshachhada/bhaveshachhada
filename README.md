@@ -25,6 +25,11 @@ Here are some ideas to get you started:
 <br>
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=mysql&logoColor=white)
 <br>
+![](https://img.shields.io/badge/-AWSS3-white?logo=amazons3)
+![](https://img.shields.io/badge/-AWSLambda-white?logo=awslambda)
+![](https://img.shields.io/badge/-AWSEC2-white?logo=amazonec2)
+![](https://img.shields.io/badge/-AWSAPIGateway-white?logo=amazonapigateway)
+<br>
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&logo=Docker&logoColor=blue&color=white)
 ![](https://img.shields.io/badge/Tool-ROS-informational?style=flat&logo=ros)
 ![](https://img.shields.io/badge/Tool-jupyter-informational?style=flat&logo=jupyter)
