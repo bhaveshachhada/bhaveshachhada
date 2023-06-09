@@ -54,7 +54,11 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-vscode-white?style=flat&logo=visualstudio&logoColor=blue)
 ![](https://img.shields.io/badge/-nano-white?style=flat&logo=nano&logoColor=red)
 ![](https://img.shields.io/badge/-AndroidStudio-white?style=flat&logo=androidstudio&logoColor=green)
-
+- Profiles
+[![Stack Overflow badge](https://img.shields.io/badge/StackOverfLow-bhaveshachhada-white?style=flat&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/14399624/bhavesh-achhada)
+[![Kaggle](https://img.shields.io/badge/Kaggle-bhaveshachhada-white?style=flat&logo=kaggle&labelColor=blue&logoColor=white)](https://www.kaggle.com/bhaveshachhada)
+[![Github Badge](https://img.shields.io/badge/GitHub-bhaveshachhada-white?style=flat&logo=github&logoColor=black)](https://github.com/bhaveshachhada)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-bhaveshachhada-white?style=flat&logo=linkedin&logoColor=blue&labelColor=lightblue)](https://www.linkedin.com/in/bhavesh-achhada/)
 #### :chart_with_upwards_trend: GitHub Statistics !
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhaveshachhada&theme=dracula)](https://github.com/bhaveshachhada/)
 <br>
