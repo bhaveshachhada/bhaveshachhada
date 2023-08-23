@@ -63,3 +63,5 @@ Here are some ideas to get you started:
 [![Bhavesh's github stats](https://github-readme-stats.vercel.app/api?username=bhaveshachhada&theme=dracula)](https://github.com/bhaveshachhada/)
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshachhada&theme=dracula&layout=compact)](https://github.com/bhaveshachhada/)
+<br>
+![github contribution grid snake animation](https://raw.githubusercontent.com/m-star18/m-star18/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/m-star18/m-star18/output/github-contribution-grid-snake.svg#gh-light-mode-only)
