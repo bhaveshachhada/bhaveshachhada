@@ -64,4 +64,6 @@ Here are some ideas to get you started:
 <br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaveshachhada&theme=dracula&layout=compact)](https://github.com/bhaveshachhada/)
 <br>
+[![An image of @bhaveshachhada's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/bhaveshachhada)](https://holopin.io/@bhaveshachhada)
+<br>
 ![github contribution grid snake animation](https://raw.githubusercontent.com/m-star18/m-star18/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/m-star18/m-star18/output/github-contribution-grid-snake.svg#gh-light-mode-only)
